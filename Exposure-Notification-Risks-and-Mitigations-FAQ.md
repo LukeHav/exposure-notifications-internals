@@ -1,0 +1,1 @@
+This document explains the key design decisions that affect the privacy and security of the Google/Apple Exposure Notifications system (ENS), the risks that were evaluated, and the mitigations that are in place for these risks.
